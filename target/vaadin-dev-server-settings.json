@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/mycodes/qwen-client/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/mycodes/qwen-client/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "D:/mycodes/qwen-client/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\mycodes\\qwen-client\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\mycodes\\qwen-client\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/mycodes/qwen-client/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/mycodes/qwen-client/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/mycodes/qwen-client/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\mycodes\\qwen-client\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
